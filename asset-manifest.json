@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/urfin2/static/css/main.9c727ceb.css",
+    "main.js": "/urfin2/static/js/main.63df9a39.js",
+    "static/js/453.773b2810.chunk.js": "/urfin2/static/js/453.773b2810.chunk.js",
+    "index.html": "/urfin2/index.html",
+    "main.9c727ceb.css.map": "/urfin2/static/css/main.9c727ceb.css.map",
+    "main.63df9a39.js.map": "/urfin2/static/js/main.63df9a39.js.map",
+    "453.773b2810.chunk.js.map": "/urfin2/static/js/453.773b2810.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c727ceb.css",
+    "static/js/main.63df9a39.js"
+  ]
+}
